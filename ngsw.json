@@ -1,0 +1,99 @@
+{
+  "configVersion": 1,
+  "timestamp": 1760943025413,
+  "index": "/index.html",
+  "assetGroups": [
+    {
+      "name": "app",
+      "installMode": "prefetch",
+      "updateMode": "prefetch",
+      "cacheQueryOptions": {
+        "ignoreVary": true
+      },
+      "urls": [
+        "/chunk-5GEGBKO5.js",
+        "/chunk-6T3BGBB4.js",
+        "/chunk-AJEQE6YT.js",
+        "/chunk-DJYNB4CC.js",
+        "/chunk-E7P3DWKB.js",
+        "/chunk-FLPQXOFS.js",
+        "/chunk-GAKB77OS.js",
+        "/chunk-HC6ADQJT.js",
+        "/chunk-HDYZMK6E.js",
+        "/chunk-QT3RDMC3.js",
+        "/chunk-ZR6YA4GW.js",
+        "/favicon.ico",
+        "/index.html",
+        "/main-DITWG24M.js",
+        "/manifest.webmanifest",
+        "/styles-5INURTSO.css"
+      ],
+      "patterns": []
+    },
+    {
+      "name": "assets",
+      "installMode": "lazy",
+      "updateMode": "prefetch",
+      "cacheQueryOptions": {
+        "ignoreVary": true
+      },
+      "urls": [
+        "/icons/icon-128x128.png",
+        "/icons/icon-144x144.png",
+        "/icons/icon-152x152.png",
+        "/icons/icon-192x192.png",
+        "/icons/icon-384x384.png",
+        "/icons/icon-512x512.png",
+        "/icons/icon-72x72.png",
+        "/icons/icon-96x96.png"
+      ],
+      "patterns": []
+    }
+  ],
+  "dataGroups": [],
+  "hashTable": {
+    "/chunk-5GEGBKO5.js": "4681b02d6ee1f9cd0fb9efbf3b64cc434f003aa3",
+    "/chunk-6T3BGBB4.js": "f5968a666c0bbbdd9562518c96e0702294700f71",
+    "/chunk-AJEQE6YT.js": "f4bc19dfb25b7427d8e47425e7a239697ac4d4cc",
+    "/chunk-DJYNB4CC.js": "64e84a7cc78387c824893aafa76b2172890eb504",
+    "/chunk-E7P3DWKB.js": "465b7be9a8fd00fc12fdfe0623480cd5aff43fc8",
+    "/chunk-FLPQXOFS.js": "8006fefb2f5e0cfa07d2ba15ef5b82031468169e",
+    "/chunk-GAKB77OS.js": "e9afb7d45bb0187e1bad3d992cfd098b59c5ed12",
+    "/chunk-HC6ADQJT.js": "993c83bfb5d3381920c8ca33463c3166f0734b70",
+    "/chunk-HDYZMK6E.js": "1fc962a3cdf12d66d01504f575bc7fd3b486805c",
+    "/chunk-QT3RDMC3.js": "af7db43f6a99aed082c7a1761178b69f52eefdf7",
+    "/chunk-ZR6YA4GW.js": "b7ba0e7474223342e9c54a999aa165ed0f1b0439",
+    "/favicon.ico": "9c39f434fe1261f68c5e3eefdf734630d99c5670",
+    "/icons/icon-128x128.png": "f912963bdc6d5a38d8f1dd0afbaab2ce8d657acb",
+    "/icons/icon-144x144.png": "b155fd5f2fd5d2ea7760721063003c4cd95fd783",
+    "/icons/icon-152x152.png": "eae6e0f0c8afb8aaae339e2a569b43e9238e5e6c",
+    "/icons/icon-192x192.png": "15c4180454633880d98674aa7394656196c91584",
+    "/icons/icon-384x384.png": "94a915751ef6c9282df9aea405ad679230631814",
+    "/icons/icon-512x512.png": "1de182f76f7329dfa8f9fcdd1fdcdd695bea6a99",
+    "/icons/icon-72x72.png": "aa88a6096bd973be7f6d7a5489bfa6bc2463f8c4",
+    "/icons/icon-96x96.png": "7fb8f59c30ce2ff12c700321a0b39e14b3dc8f95",
+    "/index.html": "5c0dcf476e9ac3d579b2ed3d249a7a01930819b9",
+    "/main-DITWG24M.js": "021a504a8e882b6be45addbbbbeedd662bc61d2f",
+    "/manifest.webmanifest": "23589636c0f67d8fb42965fb4d1ae6c8a08589f9",
+    "/styles-5INURTSO.css": "da39a3ee5e6b4b0d3255bfef95601890afd80709"
+  },
+  "navigationUrls": [
+    {
+      "positive": true,
+      "regex": "^\\/.*$"
+    },
+    {
+      "positive": false,
+      "regex": "^\\/(?:.+\\/)?[^/]*\\.[^/]*$"
+    },
+    {
+      "positive": false,
+      "regex": "^\\/(?:.+\\/)?[^/]*__[^/]*$"
+    },
+    {
+      "positive": false,
+      "regex": "^\\/(?:.+\\/)?[^/]*__[^/]*\\/.*$"
+    }
+  ],
+  "navigationRequestStrategy": "performance"
+}
