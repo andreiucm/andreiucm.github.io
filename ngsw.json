@@ -1,6 +1,6 @@
 {
   "configVersion": 1,
-  "timestamp": 1786883614372,
+  "timestamp": 1786887049999,
   "index": "/index.html",
   "assetGroups": [
     {
@@ -11,6 +11,7 @@
         "ignoreVary": true
       },
       "urls": [
+        "/apple-touch-icon.png",
         "/chunk--V_MhtP7.js",
         "/chunk-B9S6opkv.js",
         "/chunk-BHfFiYZY.js",
@@ -21,6 +22,7 @@
         "/chunk-Dflia3Ck.js",
         "/chunk-YKRx8pis.js",
         "/favicon.ico",
+        "/favicon.svg",
         "/index.html",
         "/main-UKMEJ2HN.js",
         "/manifest.webmanifest",
@@ -43,13 +45,16 @@
         "/icons/icon-384x384.png",
         "/icons/icon-512x512.png",
         "/icons/icon-72x72.png",
-        "/icons/icon-96x96.png"
+        "/icons/icon-96x96.png",
+        "/icons/icon-maskable-192x192.png",
+        "/icons/icon-maskable-512x512.png"
       ],
       "patterns": []
     }
   ],
   "dataGroups": [],
   "hashTable": {
+    "/apple-touch-icon.png": "e226e3f9642373336980c21a25b0099c24433b5b",
     "/chunk--V_MhtP7.js": "e51b63d4799fe58c4fa186dde92db336cde64e7e",
     "/chunk-B9S6opkv.js": "8b7eb7355e5c75f2b330bed2f7b947cf0fde225a",
     "/chunk-BHfFiYZY.js": "9d4b9c8a4252a7ef5b90e201a59041c948500498",
@@ -59,18 +64,21 @@
     "/chunk-DXKgsUmj.js": "25dc8521fac4b0b82833713a035bf5a3cff6cb5b",
     "/chunk-Dflia3Ck.js": "e4bd627024a7f21a899385a066fc58205f2478bb",
     "/chunk-YKRx8pis.js": "610ad8cbf1431a847cfd11737ea80be0bf332ac8",
-    "/favicon.ico": "9c39f434fe1261f68c5e3eefdf734630d99c5670",
-    "/icons/icon-128x128.png": "f912963bdc6d5a38d8f1dd0afbaab2ce8d657acb",
-    "/icons/icon-144x144.png": "b155fd5f2fd5d2ea7760721063003c4cd95fd783",
-    "/icons/icon-152x152.png": "eae6e0f0c8afb8aaae339e2a569b43e9238e5e6c",
-    "/icons/icon-192x192.png": "15c4180454633880d98674aa7394656196c91584",
-    "/icons/icon-384x384.png": "94a915751ef6c9282df9aea405ad679230631814",
-    "/icons/icon-512x512.png": "1de182f76f7329dfa8f9fcdd1fdcdd695bea6a99",
-    "/icons/icon-72x72.png": "aa88a6096bd973be7f6d7a5489bfa6bc2463f8c4",
-    "/icons/icon-96x96.png": "7fb8f59c30ce2ff12c700321a0b39e14b3dc8f95",
-    "/index.html": "9cb3b3e532ad977518a08040f6ef1801af1229f9",
+    "/favicon.ico": "b923ac6a040dd7f9def74bf862143ca13e85605c",
+    "/favicon.svg": "9cbf70ff2d4899408f93697087bdaee4eb32e43f",
+    "/icons/icon-128x128.png": "a8d0fc14bac82d4054fdc322a53d3fd842c99e3a",
+    "/icons/icon-144x144.png": "a77243e3cf59e0a3a77afaf4fa43961bc475a26b",
+    "/icons/icon-152x152.png": "bcd2d26765b2bb310b655b7fba002f01b1ee1f72",
+    "/icons/icon-192x192.png": "8ea6c85b6c3a87012046a5d35783a4a9057c0979",
+    "/icons/icon-384x384.png": "53e04e5b3cc2023d88e4322d427db36c00c5260c",
+    "/icons/icon-512x512.png": "e496877420c465b46ab4be9d8781804352c1aa6d",
+    "/icons/icon-72x72.png": "f77f081217aa911521cd9ebb8064bec48b1ff1fc",
+    "/icons/icon-96x96.png": "02b04bbe06fa7f5e9543177ba2acacd2c19987f9",
+    "/icons/icon-maskable-192x192.png": "8ea6c85b6c3a87012046a5d35783a4a9057c0979",
+    "/icons/icon-maskable-512x512.png": "e496877420c465b46ab4be9d8781804352c1aa6d",
+    "/index.html": "3fbd65239ca6497d203a298203c6c1eba9e58bba",
     "/main-UKMEJ2HN.js": "ac22acd0801cfc148a20d4a41f57b22f3e833271",
-    "/manifest.webmanifest": "23589636c0f67d8fb42965fb4d1ae6c8a08589f9",
+    "/manifest.webmanifest": "5bf30ce4f0696b3ab7c994f1b27c53f4a9c90d77",
     "/styles-W2DQ7JU6.css": "92893a7b561de91ee071466f53cf1b8c5ab0b209"
   },
   "navigationUrls": [
